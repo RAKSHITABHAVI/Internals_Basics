@@ -1,0 +1,16 @@
+{
+  "health_endpoint": "/health",
+  "predict_endpoint": "/score",
+  "port": 9000,
+  "health_response": {
+    "alive": true,
+    "service": "AdPulse click_through_rate API"
+  },
+  "test_input": {
+    "ad_spend": 30749.9,
+    "audience_size": 191605,
+    "creative_score": 6.8,
+    "is_retargeting": 1
+  },
+  "prediction": 5.0
+}

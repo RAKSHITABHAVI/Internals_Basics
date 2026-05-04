@@ -1,0 +1,7 @@
+{
+    "registered_model_name": "adpulse-click-through-rate-predictor",
+    "version": 1,
+    "run_id": "c1b7e4305185419ba639f290a87200a9",
+    "source_metric": "mae",
+    "source_metric_value": 1.0
+}

@@ -1,0 +1,22 @@
+{
+    "experiment_name": "adpulse-click-through-rate",
+    "models": [
+        {
+            "name": "SVR",
+            "mae": 1.1245100840817308,
+            "rmse": 1.4809654980207834,
+            "r2": 0.14444269092789253,
+            "mape": 0.2735411587288959
+        },
+        {
+            "name": "GradientBoosting",
+            "mae": 1.3869724420877159,
+            "rmse": 1.7565899058576562,
+            "r2": -0.20364936094758246,
+            "mape": 0.25650374237045626
+        }
+    ],
+    "best_model": "SVR",
+    "best_metric_name": "mae",
+    "best_metric_value": 1.1245100840817308
+}
